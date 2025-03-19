@@ -1,3 +1,7 @@
-# Obsah
-- [OIP](https://github.com/user-attachments/assets/d2dc16ae-01f2-4395-ad97-3de110b4054a)](#podnadpis)
-  - [novy](#novy)
+## Logo pythonu
+![OIP](https://github.com/user-attachments/assets/e628ece4-5d79-4809-954a-bf5d6bfaad21)
+
+## kod
+Tento kód dělá toto
+
+
